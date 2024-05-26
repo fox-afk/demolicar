@@ -1,0 +1,33 @@
+.socias{
+    width: 25%;
+    }
+    .socias button{
+    width: 40px;
+    height: 40px;
+    background-image:linear-gradient(45deg,#ff2500,#ff7100) ;
+    border: none;
+    border-radius: 8px;
+    margin-right: 10px;
+    }
+    .container{
+    max-width: 1080px;
+    margin:  0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;}
+    .menu{
+    width: 50%;}
+    .menu nav a {
+    color: floralwhite;
+    text-decoration: none;
+    padding-right: 50px;
+    font-size: 18px;
+    position: relative;
+    }
+    header{
+    background-color: black;
+    width: 100%;
+    padding: 10px;
+    }
+
+    
