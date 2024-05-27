@@ -30,4 +30,11 @@
     padding: 10px;
     }
 
-    
+.sobre{
+    border:2px red solid;
+    padding-right:  20px;
+    position: relative;
+}
+.endereco{
+    border:2px  purple solid;
+}
