@@ -169,11 +169,10 @@ header {
 
 
 #mau {
-
-    position: static;
-    border: 2px red solid;
-
+padding-left: 520px;
 }
+#gil{
+padding-left: 520px;}
 
 h1 {
     text-align: center;
